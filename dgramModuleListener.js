@@ -1,6 +1,6 @@
 // dgram
 
-//its useqd for soket commnication through UDP(user datagram protocal)
+//its used for soket commnication through UDP(user datagram protocal)
 //UDP4 - ipv4 UDP6 - ipv6
 
 //listerner
